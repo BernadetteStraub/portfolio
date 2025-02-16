@@ -7,10 +7,10 @@
 
 <div class="bg-surface-100" data-theme="skeleton">
 	<div class="flex min-h-screen items-center justify-center">
-		<div class="flex h-full max-w-[110rem]">
-			<aside class="sidebar">
-				<div class="flex flex-col items-center justify-center p-[4rem_6rem_4rem_0] text-center">
-					<img class="mb-12 h-80 w-80 rounded-full" src="/images/berni.png" alt="avatar" />
+		<div class="flex flex-col lg:flex-row h-full w-full max-w-[110rem]">
+			<aside class="w-full lg:w-2/5 lg:h-screen lg:sticky lg:top-0 p-8 flex flex-col items-center">
+				<div class="flex flex-col items-center justify-center py-16 text-center">
+					<img class="mb-12 h-80 w-80 rounded-full " src="/images/berni.png" alt="avatar" />
 					<p class="m-4 text-xl text-secondary-400">Hi, my name is</p>
 					<h1 class="mb-2 text-3xl text-error-400">
 						<TypingAnimation text="> Bernadette Straub" speed={150} />
@@ -65,7 +65,7 @@
 					</div>
 				</div>
 			</aside>
-			<main class="w-3/5 overflow-hidden p-8">
+			<main class="w-full lg:w-3/5 p-8 overflow-auto">
 				<section class="mb-8" id="about">
 					<About></About>
 				</section>
@@ -81,7 +81,7 @@
 </div>
 
 <style>
-	.sidebar {
+	/* .sidebar {
 		position: sticky;
 		top: 0;
 		align-self: start;
@@ -92,7 +92,7 @@
 		flex-direction: column;
 		justify-content: space-between;
 		align-items: center;
-	}
+	} */
 
 	/* GLOBAL */
 	@font-face {

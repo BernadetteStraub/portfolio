@@ -1,7 +1,7 @@
 <section id="projects" class="px-8 pb-0 pt-16">
 	<h2 class="my-6 text-3xl text-error-400">> Projects</h2>
 
-	<div class="flex grid grid-cols-2 gap-8">
+	<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
 		<a
 			href="https://github.com/BernadetteStraub/portfolio"
 			target="_blank"
