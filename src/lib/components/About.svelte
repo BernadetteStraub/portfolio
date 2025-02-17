@@ -1,6 +1,6 @@
-<section id="about" class="px-8 pb-0 pt-16">
-	<h2 class="my-6 text-3xl text-error-400">> About Me</h2>
-	<p class="text-justify text-lg text-secondary-400">
+<section id="about" class="px-6 pb-0 pt-12">
+	<h2 class="my-4 text-2xl text-error-400">> About Me</h2>
+	<p class="text-justify text-base text-secondary-400">
 		I'm a Fullstack dev currently located in <span class="text-error-400">Zürich, Switzerland</span
 		>, who's focus lies in backend development, as you can already tell from my overly simplistic
 		portfolio. My passion for coding started from a young age when I started dabbling with HTML and
