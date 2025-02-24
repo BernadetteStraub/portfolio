@@ -19,7 +19,7 @@
 				<p class="text-sm text-secondary-400">
 					Built a web portfolio to showcase my projects and future endeavours. This project was an
 					attempt to practice my frontend skills and to learn new technologies like Svelte and
-					Tailwind but also to learn how to deploy a website.
+					Tailwind but also to learn how to publish a webapp.
 				</p>
 			</article>
 

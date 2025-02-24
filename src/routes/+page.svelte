@@ -18,7 +18,7 @@
 					<p class="m-2 text-lg text-secondary-400">Fullstack Engineer</p>
 					<div class="flex justify-center gap-4 py-2">
 						<a
-							href="/images/CVBernadette11:10.pdf"
+							href="/images/BernadetteStraubCV.pdf"
 							target="_blank"
 							rel="noopener noreferrer"
 							class="variant-soft-secondary btn text-sm px-4 py-2"><i class="icon-file-text-alt"></i>&nbsp;Resumé</a

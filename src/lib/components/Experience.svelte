@@ -4,7 +4,7 @@
 	<div
 		class="flex justify-between rounded-xl bg-[#f0f3fd] p-4 shadow-sm transition-transform duration-200 ease-in-out"
 	>
-		<div class="w-2/5 pt-1 text-xs text-surface-300">11.2022 — 04.2024</div>
+		<div class="w-2/5 pt-1 text-xs text-surface-300">11.2021 — 04.2024</div>
 		<div class="w-[160%]">
 			<a
 				href="https://www.rotable.de/"
