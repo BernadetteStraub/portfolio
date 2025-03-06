@@ -123,7 +123,7 @@
 			class="border-surface-200-800 divide-surface-200-800 card card-hover block max-w-md divide-y overflow-hidden border-[1px] bg-[#f0f3fd]"
 		>
 			<header>
-				<img src="/images/github3.png" class="aspect-[21/9] w-full" alt="banner" />
+				<img src="/images/myflix1.png" class="aspect-[21/9] w-full" alt="banner" />
 			</header>
 
 			<article class="space-y-3 p-4">
@@ -147,6 +147,9 @@
 				<span class="rounded-full bg-secondary-100 px-3 py-2 text-xs font-medium text-secondary-400"
 					>Angular</span
 				>
+				<span class="rounded-full bg-secondary-100 px-3 py-2 text-xs font-medium text-secondary-400"
+					>PSQL</span
+				>	
 			</footer>
 		</a>
 	</div>
