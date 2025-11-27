@@ -153,9 +153,7 @@
 			</footer>
 		</a>
 	</div>
-	<div class="flex justify-center pt-16 text-sm text-error-400">
-		<p>Made with <i class="icon-heart"></i> by yours truly. Built with Svelte.</p>
-	</div>
+
 </section>
 
 <style>

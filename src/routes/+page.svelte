@@ -3,6 +3,7 @@
 	import Projects from '$lib/components/Projects.svelte';
 	import Experience from '$lib/components/Experience.svelte';
 	import TypingAnimation from '$lib/components/TypingAnimation.svelte';
+	import Certificates from '$lib/components/Certificates.svelte';
 </script>
 
 <div class="bg-surface-100" data-theme="skeleton">
@@ -18,7 +19,7 @@
 					<p class="m-2 text-lg text-secondary-400">Fullstack Engineer</p>
 					<div class="flex justify-center gap-4 py-2">
 						<a
-							href="/images/BernadetteStraubCV.pdf"
+							href="/images/BernadetteStraubCV1.pdf"
 							target="_blank"
 							rel="noopener noreferrer"
 							class="variant-soft-secondary btn text-sm px-4 py-2"><i class="icon-file-text-alt"></i>&nbsp;Resumé</a
@@ -43,6 +44,11 @@
 							<li class="my-3 text-secondary-400 hover:text-error-400">
 								<a class="text-lg no-underline transition-colors duration-200" href="#projects"
 									>Projects</a
+								>
+							</li>
+							<li class="my-3 text-secondary-400 hover:text-error-400">
+								<a class="text-lg no-underline transition-colors duration-200" href="#certificates"
+									>Certificates</a
 								>
 							</li>
 						</ul>
@@ -74,6 +80,9 @@
 				</section>
 				<section class="mb-6" id="projects">
 					<Projects></Projects>
+				</section>
+				<section class="mb-6" id="certificates">
+					<Certificates></Certificates>
 				</section>
 			</main>
 		</div>
